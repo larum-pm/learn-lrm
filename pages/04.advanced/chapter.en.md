@@ -1,12 +1,12 @@
 ---
-title: Advanced
+title: Cases
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 3
+### Chapter 4
 
-# Advanced
+# Cases
 
 Get into the **nitty gritty** with these advanced topics
