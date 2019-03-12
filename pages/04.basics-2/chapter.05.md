@@ -1,5 +1,5 @@
 ---
-title: 'Basics 2'
+title: About
 taxonomy:
     category: docs
 child_type: docs
