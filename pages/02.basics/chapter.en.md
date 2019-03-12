@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Chapter 2
 
 # Basics
 
