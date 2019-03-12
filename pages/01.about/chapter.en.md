@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# About Larum
+# About
 
 LRM **(Larum)** stands for Lightweight Risk Management
