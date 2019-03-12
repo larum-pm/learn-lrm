@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# About Larum
 
-Discover the **basic** principles
+LRM **(Larum)** stands for Lightweight Risk Management
