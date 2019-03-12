@@ -7,7 +7,7 @@ child_type: docs
 ---
 
 ### Chapter 1
-![](http://)
+![](//user/pages/01.about/larum-doc-logo.png)
 # About Larum
 
 LRM **(Larum)** stands for Lightweight Risk Management
