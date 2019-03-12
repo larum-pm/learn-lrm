@@ -1,5 +1,5 @@
 ---
-title: About
+title: 'About Larum'
 taxonomy:
     category: docs
 child_type: docs
