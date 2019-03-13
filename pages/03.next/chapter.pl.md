@@ -1,5 +1,5 @@
 ---
-title: 'Kolejny Poziop'
+title: 'Kolejny poziom'
 taxonomy:
     category: docs
 child_type: docs
