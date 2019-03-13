@@ -1,5 +1,5 @@
 ---
-title: 'Kolejny Poziom'
+title: 'Kolejny Poziop'
 taxonomy:
     category: docs
 child_type: docs
@@ -7,6 +7,6 @@ child_type: docs
 
 ### Rozdział 3
 
-# Kolejny Poziom
+# Kolejny poziom
 
 Delve deeper into more **complex** topics
