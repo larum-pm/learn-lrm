@@ -1,5 +1,5 @@
 ---
-title: Dictionary
+title: Słownik
 published: true
 taxonomy:
     category: docs
