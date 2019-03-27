@@ -6,20 +6,20 @@ taxonomy:
 visible: true
 ---
 
-# Wstęp
+## Wstęp
 Kilka słów o LRM - lekkim podejściu do zarządzania ryzykiem. O zgodności z ISO 31000, z metodykami zwinnymi (ang. Agile) i inne ważne informacje, od któryh powinniśmy zacząć naszą opowieść.
 
-# Wymagania
+### Wymagania
 Jak każdy framework i metodologia, LRM również ma zestaw wymagań, o których powinieneś wiedzieć, zanim zaczniesz. 
 
-## Zanim zaczniesz:
+### Zanim zaczniesz:
 1. Wiesz, jaki jest cel projektu i znasz zakres zadań do wykonania.
 2. Wiesz, kto jest kim w projekcie: kto płaci, kto jest klientem, kto przynosi wymagania.
 3. Wiesz, ile możesz wydać i jakie zasoby masz do dyspozycji.
 
 Czegoś brakuje? Wróć do 
 
-# Dalsze kroki
+## Dalsze kroki
 **Markdown** is a better way to write **HTML**, without all the complexities and ugliness that usually accompanies it.
 
 [version=20]
